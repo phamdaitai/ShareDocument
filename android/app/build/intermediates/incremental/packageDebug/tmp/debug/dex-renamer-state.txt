@@ -1,4 +1,4 @@
-#Tue May 26 02:19:35 ICT 2020
+#Tue May 26 11:11:08 ICT 2020
 base.0=/home/tai/Desktop/ShareDocument (copy)/android/app/build/intermediates/dex/debug/mergeDexDebug/out/classes.dex
 path.1=classes.dex
 renamed.1=classes2.dex

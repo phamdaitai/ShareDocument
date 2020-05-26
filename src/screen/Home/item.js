@@ -1,5 +1,5 @@
 import React from 'react';
-import { View, Text, Image, StyleSheet, Alert, TouchableOpacity } from 'react-native';
+import { View, Text, Image } from 'react-native';
 import styles from './styles';
 
 const Item = ({ category }) => {

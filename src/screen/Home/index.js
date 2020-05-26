@@ -1,5 +1,5 @@
 import React, {useState, useEffect} from 'react';
-import { View, Text, Button, FlatList, TouchableOpacity, TouchableHighlight, Image, ScrollView } from 'react-native';
+import { View, FlatList, TouchableHighlight } from 'react-native';
 const axios = require('axios');
 import * as Types from '../../constants/index';
 import Item from './item';
@@ -41,7 +41,7 @@ const Home = ({ navigation }) => {
                 keyExtractor={item => item._id}
                 numColumns={2}
             />
-        </View>
+            </View>
     );
 };
 

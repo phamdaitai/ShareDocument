@@ -3,7 +3,7 @@ import {
   View,
   Text,
 } from 'react-native';
-import Navigator from './src/navigator/index';
+import StackNavigator from './src/navigator/index';
 import DrawerNavigator from './src/navigator/drawer';
 
 function App(){
